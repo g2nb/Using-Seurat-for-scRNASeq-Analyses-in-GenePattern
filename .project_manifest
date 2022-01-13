@@ -1,0 +1,6 @@
+{
+    "container": "genepattern/genepattern-notebook:21.12",
+    "description": "QC, preprocessing, clustering, and visualization of scRNA-seq data using Seurat.",
+    "image": "Legacy",
+    "name": "Using Seurat for scRNASeq Analyses in GenePattern"
+}
